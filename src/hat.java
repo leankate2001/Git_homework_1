@@ -4,5 +4,5 @@ public class hat {
 
     // put hat on your head
 
-
+// the hat is black
 }
